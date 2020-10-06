@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'VodafoneRg';
+    src: url(../fonts/VodafoneRg.eot?#iefix) format('embedded-opentype'), url(../fonts/VodafoneRg.ttf) format('truetype')
+}
+@font-face {
+    font-family: 'VodafoneRgBd';
+    src: url(../fonts/VodafoneRgBd.eot?#iefix) format('embedded-opentype'), url(../fonts/VodafoneRgBd.ttf) format('truetype')
+}
+@font-face {
+    font-family: 'VodafoneLt';
+    src: url(../fonts/VodafoneLight.eot?#iefix) format('embedded-opentype'), url(../fonts/VodafoneLight.ttf) format('truetype')
+}
+* {
+    font-family: VodafoneRg;
+}
+button.shareBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    line-height: 40px;
+    padding: 10px 60px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background-color: #b1b1fd;
+    color: #fff;
+    margin: 20px auto;
+}
+button.shareBtn img {
+    width: 40px;
+    margin: 0 20px 0 0;
+}
+
+/* Hide scrollbar for IE and Edge */
+
+.requestCallBack .dropdown .dropdown-menu.show {
+    -ms-overflow-style: none;
+}
+@media screen and (min-width: 1025px) {
+    .container {
+        max-width: 1232px;
+    }
+}
+@media screen and (max-width:1024px) {}
+@media screen and (min-width:768px) and (max-width:1024px) {}
+@media screen and (max-width:991px) {}
+@media screen and (min-width:768px) and (max-width:991px) {}
+@media screen and (max-width:767px) {
+    /* newmobie end */
+}
+@media screen and (min-width:481px) and (max-width:767px) {}
+@media screen and (max-width:480px) {}
+@media screen and (max-width:375px) {}

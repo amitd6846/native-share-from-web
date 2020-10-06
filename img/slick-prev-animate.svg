@@ -1,0 +1,27 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+  <desc transform="matrix(4.340277446640869,0,0,4.340277446640869,0,0) ">Created with sketchtool.</desc>
+  <g id="svg_18">
+   <g transform="matrix(4.340277446640869,0,0,4.340277446640869,0,0) " fill-rule="evenodd" fill="none" id="svg_10">
+    <g id="svg_11">
+     <g id="svg_12">
+      <g transform="rotate(90 11.520004272460946,-38.479999542236335) translate(25,25) scale(-1,1) translate(-25,-25) translate(13,13) " id="svg_13">
+       <g id="svg_14">
+        <rect height="24" width="24" y="-63.48" x="-36.520004" id="svg_16"/>
+        <polyline points="-31.520004272460938,-54.47999954223633 -24.520004272460938,-47.47999954223633 -17.520004272460938,-54.47999954223633 " stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#000000" id="svg_15"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
